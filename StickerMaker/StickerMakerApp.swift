@@ -11,7 +11,7 @@ import SwiftUI
 struct StickerMakerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            StickerMakerView()
         }
     }
 }
